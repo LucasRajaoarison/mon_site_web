@@ -3,4 +3,4 @@ tmp/*
 *.xml
 *.txt
 test/*
-
+*.jar
